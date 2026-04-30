@@ -1,0 +1,1 @@
+console.log('Telegram app is loaded!');
